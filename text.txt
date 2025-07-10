@@ -1,1 +1,2 @@
 # By this i am trying to form a repo on github (my account is already linked to vs_code) through vs_code terminal
+# First line change to see the git status and practice how to make any cahnges :- {save it first} and check git status
