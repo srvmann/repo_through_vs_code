@@ -1,0 +1,1 @@
+# By this i am trying to form a repo on github (my account is already linked to vs_code) through vs_code terminal
